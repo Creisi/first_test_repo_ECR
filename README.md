@@ -3,6 +3,7 @@ Testing out GitHub and version control
 
 Here's a funny python joke:
 
-* sssssss
-* I forgot
+* A horse walks into a bar, and the bartender asks, "Why the long face?"
+
+**shrug**
 
