@@ -7,3 +7,4 @@ Here's a funny python joke:
 
 Horses are pretty cool.
 
+But so are snakes.
